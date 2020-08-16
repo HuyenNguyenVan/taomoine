@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bên a chúng tôi nói cần thêm cái này
+=======
+bên B chúng tôi nói cầm thêm cái này nè
+>>>>>>> 9c325ea2a47361df5f6929a1759cfcca00de5e5a
